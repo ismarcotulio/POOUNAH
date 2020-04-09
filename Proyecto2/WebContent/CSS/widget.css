@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.widget{
+	border: solid white 1px;
+}
+
+.widget:hover{
+	background-color: white;
+}
+
+#lyric:hover{
+	background-color: white;
+}
+
+#letra:hover{
+	background-color: white;
+}
+
+#album:hover{
+	background-color: white;
+}
+
+#title:hover{
+	background-color: white;
+}
+
+#bar:hover{
+	background-color: white;
+}
+
+#library:hover{
+	background-color: white;
+}
+
+#playlist:hover{
+	background-color: white;
+}
+
+#info:hover{
+	background-color: white;
+}
+
+#shopList:hover{
+	background-color: white;
+}
+
+
+
